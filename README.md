@@ -1,2 +1,2 @@
 # CrisAriGoGo
-Estudiante de UNTDF
+Estudiante de la UNTDF
